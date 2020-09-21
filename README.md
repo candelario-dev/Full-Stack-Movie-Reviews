@@ -1,8 +1,8 @@
-#FullStack Movie Reviews
+# FullStack Movie Reviews
 
 ![movie](https://user-images.githubusercontent.com/69063941/93758305-2de86700-fbd6-11ea-9637-f1e71835cd78.png)
 
-###Made with:
+### Made with:
  HTML, EJS, CSS, Boostrap, JavaScript, Node.js, MongoDB
 
 ## Installation
